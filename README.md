@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### 🔭 Expertise
+- JavaScript
+- React
+- Angular
+- Java
+
+
+### 🌱 I’m currently learning
+- TypeScript
+
 <!--
 **flandans/flandans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
